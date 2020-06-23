@@ -22,5 +22,5 @@ These data has been provided from sensors which is inertial sensors talked in in
 
 ### Result
 
-![Screenshot](screenshot.png)
+![Screenshot](result.png)
 
