@@ -22,5 +22,5 @@ These data has been provided from sensors which is inertial sensors talked in in
 
 ### Result
 
-![Alt text](Human-Activity-Recognition-/blob/master/result.PNG?raw=true "Title")
+![Alt text](https://github.com/Pathakvishnu/Human-Activity-Recognition-/blob/master/result.PNG?raw=true "Title")
 
