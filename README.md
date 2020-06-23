@@ -24,3 +24,12 @@ These data has been provided from sensors which is inertial sensors talked in in
 
 ![Alt text](https://github.com/Pathakvishnu/Human-Activity-Recognition-/blob/master/result.PNG?raw=true "Title")
 
+### Refrences
+
+1.https://arxiv.org/pdf/1906.01935.pdf
+2.. Wang, J., Chen, Y., Hao, S., Peng, X., Hu, L.: Deep learning for sensor-based
+activity recognition: A survey. CoRR abs/1707.03502 (2017), http://arxiv.
+org/abs/1707.03502
+3.Bulling, A., Blanke, U., Schiele, B.: A tutorial on human activity recognition using
+body-worn inertial sensors. ACM Comput. Surv. 46(3), 33:1–33:33 (Jan 2014).
+https://doi.org/10.1145/2499621, http://doi.acm.org/10.1145/2499621
