@@ -13,12 +13,12 @@ record the movements of a body.
 
 These data has been provided from sensors which is inertial sensors talked in introduction part. There in total 6 categories.
 
-1: 'WALKING_UPSTAIRS',
-2: 'WALKING_DOWNSTAIRS',
-3: 'SITTING',
-4: 'STANDING',
-5: 'LAYING',
-6: 'WALKING',
+1: 'WALKING_UPSTAIRS'<br/>
+2: 'WALKING_DOWNSTAIRS'<br/>
+3: 'SITTING'<br/>
+4: 'STANDING'<br/>
+5: 'LAYING'<br/>
+6: 'WALKING'<br/>
 
 ### Result
 
@@ -26,10 +26,10 @@ These data has been provided from sensors which is inertial sensors talked in in
 
 ### Refrences
 
-1.https://arxiv.org/pdf/1906.01935.pdf
+1.https://arxiv.org/pdf/1906.01935.pdf <br/>
 2.. Wang, J., Chen, Y., Hao, S., Peng, X., Hu, L.: Deep learning for sensor-based
 activity recognition: A survey. CoRR abs/1707.03502 (2017), http://arxiv.
-org/abs/1707.03502
+org/abs/1707.03502<br/>
 3.Bulling, A., Blanke, U., Schiele, B.: A tutorial on human activity recognition using
 body-worn inertial sensors. ACM Comput. Surv. 46(3), 33:1–33:33 (Jan 2014).
 https://doi.org/10.1145/2499621, http://doi.acm.org/10.1145/2499621
